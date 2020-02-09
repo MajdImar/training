@@ -11,3 +11,7 @@
 * **a** : url between "" after the qutotion we put name for example   <li><a href="here we put the path for example contact.html"> home</a></li>
 - **main** :hon bktb articles & sections,, article--section--p "paragraph" or put them in classes < p class ="name" > </P> when we want to make css we put . then the name of the class .
 - then we put the footer the rights part.
+- first of all we clone it by copying the path then im ubton command git clone _paste for the url_
+- to take the last update from git hub,command git pull origin master.
+- to push the updates to git hub,commands are git add . , git commit -m"" , git push origin master ,user and pass word for github account MajdImar,pass gotomeee5.
+- to active the code in vs, command code .
