@@ -2,7 +2,7 @@ var name = prompt("what is your name ? ");
 document.write('<h1>' + "Hello "+ name+'</h1>' );
 var num=prompt("which galaxy do you prefer(spiral or barred or elliptical or irregular galaxy");
 while (num !=='spiral' && num !=='barred' && num !=='elliptical' && num!=='irregular'){
-    num=prompt("pleaze enter the right name")
+    num=prompt("pleaze enter the right name(spiral or barred or elliptical or irregular galaxy)")
 }
 var you;
 function space (num){
